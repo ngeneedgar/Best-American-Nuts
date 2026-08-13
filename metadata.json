@@ -1,0 +1,6 @@
+{
+  "name": "B2B Wholesale Task Dashboard",
+  "description": "A luxury B2B task management dashboard and product specification view for Best American Nuts wholesale orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
